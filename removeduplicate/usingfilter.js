@@ -1,11 +1,11 @@
 //Method 1:
 
-/* const arr=[1,3,2,3,4,6,6,1];
+const a=[1,3,2,3,4,6,6,1];
 
-const res=arr.filter((val,index,originalarr)=>{
+const res=a.filter((val,index,originalarr)=>{
     return originalarr.indexOf(val)===index 
 })
-console.log(res) */
+console.log(res)
 
 
 //Method 2  :

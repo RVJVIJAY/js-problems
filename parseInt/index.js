@@ -7,3 +7,4 @@ console.log(parseInt('32',8) )//octal base
 console.log(parseInt('1011',2))// binary
 console.log(parseInt('12',10) )//decimal , when i not spefic the radix it take default as decimal
 console.log(parseInt('3',2))
+
