@@ -15,7 +15,7 @@ for(let i=0;i<=str.length;i++){
 
 const strarr=['i want to become','a professional front end','develper'];
 const r=strarr.map((val)=>{
-   return val.split(' ')
+   return val.split(' ') 
 })
 console.log(r.flat())  
 
